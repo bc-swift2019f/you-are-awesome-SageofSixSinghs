@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     var imageIndex = -1
     let numberOfImages = 10
     
+    
     // Code below executes when the app's view first loads
     override func viewDidLoad() {
         super.viewDidLoad()
